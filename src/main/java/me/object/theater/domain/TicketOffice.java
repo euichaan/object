@@ -1,4 +1,4 @@
-package me.object.theater;
+package me.object.theater.domain;
 
 import java.util.ArrayList;
 import java.util.Arrays;
