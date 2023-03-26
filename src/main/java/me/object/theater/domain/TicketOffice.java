@@ -22,10 +22,6 @@ public class TicketOffice {
 		return tickets.remove(0);
 	}
 
-	public void minusAmount(Long amount) {
-		this.amount -= amount;
-	}
-
 	public void plusAmount(Long amount) {
 		this.amount += amount;
 	}
